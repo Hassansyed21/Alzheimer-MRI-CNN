@@ -74,7 +74,7 @@ The notebook is configured to load the data from a Google Drive path (`/content/
 
 A popular version of this dataset can be found on Kaggle:
 
-[https://www.kaggle.com/datasets/tourist55 /alzheimers-dataset-4-class-of-images](https:// www.kaggle.com/datasets/tourist55/alzheimers -dataset-4-class-of-images)
+[https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
 
 License
 This project is licensed under the MIT License see the LICENSE file for details
