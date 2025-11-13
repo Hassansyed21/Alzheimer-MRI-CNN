@@ -42,7 +42,8 @@ Setup Instructions
     pip install -r requirements.txt
 3. Run the Notebook
     Open alzheimer_mri_model.ipynb in Jupyter or Google Colab.
-    Important: You must upload the Alzheimer _MRI_Dataset to your environment (e.g., Google Drive) and update the base_dir path in the notebook to match your location.
+    Important: This project requires the pre-trained model file Alzheimer_model.keras. Download it from the link in the File Structure section and place it in your project folder.
+    You must also upload the Alzheimer _MRI_Dataset to your environment.
 
 File Structure
 alzheimer-mri-cnn. 
@@ -50,7 +51,8 @@ alzheimer-mri-cnn.
 
 |-- alzheimer_mri_model.ipynb <-- The main project notebook
 
-|-- Alzheimer model.keras. <--The saved,trained model
+|-- Alzheimer_model.keras <-- (Model file is too large for GitHub)
+                                 [Download from Google Drive](https://drive.google.com/file/d/1XMLnkaPANInessWGMyurNLTmHVndbiXC/view?usp=sharing)
 
 |-- requirements.txt. <-- Python libraries
 
